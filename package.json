@@ -1,5 +1,5 @@
 {
-  "name": "@drvem/s3-static-deployer",
+  "name": "s3-static-deployer",
   "version": "0.0.1",
   "description": "",
   "license": "MIT",
@@ -11,13 +11,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Felipe Kurkowski <felipekurkowski@gmail.com>",
-  "homepage": "https://github.com/DrVem/s3-static-deployer",
+  "homepage": "https://github.com/fkurkowski/s3-static-deployer",
   "repository": {
     "type": "git",
-    "url": "git://github.com/DrVem/s3-static-deployer.git"
+    "url": "git://github.com/fkurkowski/s3-static-deployer.git"
   },
   "bugs": {
-    "url": "https://github.com/DrVem/s3-static-deployer/issues"
+    "url": "https://github.com/fkurkowski/s3-static-deployer/issues"
   },
   "keywords": [
     "aws",
